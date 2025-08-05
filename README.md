@@ -1,18 +1,55 @@
-## Hi there 👋
+<h1 align="left">Hi there, I'm Arda 👋</h1>
+
+###
+
+<p align="left">Welcome to my GitHub profile! I’m a passionate software engineer who develops projects using various technologies and frameworks. Here you can find a brief overview of my technical skills and the projects I’ve worked on.</p>
+
+###
+
+<h2 align="left">🧰 🔨 Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity" height="38" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="38" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="38" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="38" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="38" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="38" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="38" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardasavtekin/ardasavtekin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardasavtekin/ardasavtekin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ardasavtekin/ardasavtekin/output/pacman-contribution-graph.svg">
+</picture>
+
 ![ardasavtekin's Stats](https://github-readme-stats.vercel.app/api?username=ardasavtekin&theme=react&show_icons=true&hide_border=false&count_private=true)
 
 ![ardasavtekin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardasavtekin&theme=react&hide_border=false)
-<!--
-**ardasavtekin/ardasavtekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
