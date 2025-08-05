@@ -11,29 +11,27 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=unity" height="38" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="38" alt="xcode logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="38" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="38" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="38" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="38" alt="swift logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="38" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -48,8 +46,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ardasavtekin/ardasavtekin/output/pacman-contribution-graph.svg">
 </picture>
 
-![ardasavtekin's Stats](https://github-readme-stats.vercel.app/api?username=ardasavtekin&theme=react&show_icons=true&hide_border=false&count_private=true)
+###
 
-![ardasavtekin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardasavtekin&theme=react&hide_border=false)
+![ardasavtekin's Stats](https://github-readme-stats.vercel.app/api?username=ardasavtekin&theme=react&show_icons=true&hide_border=false&count_private=true) ![ardasavtekin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardasavtekin&theme=react&hide_border=false)
 
 ###
