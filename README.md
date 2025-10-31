@@ -46,8 +46,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ardasavtekin/ardasavtekin/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-![ardasavtekin's Stats](https://github-readme-stats.vercel.app/api?username=ardasavtekin&theme=react&show_icons=true&hide_border=false&count_private=true) ![ardasavtekin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardasavtekin&theme=react&hide_border=false)
 
 ###
